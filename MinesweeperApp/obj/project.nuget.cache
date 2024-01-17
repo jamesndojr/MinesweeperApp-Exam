@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7r8jf3VgNnYnPWUFzdRQM5JOxE3Q+PfzXmNUaFgty0W5VbuA1wZJcdzf1amHN9mdnwOnizmSpcVjPUchLXTKQ==",
+  "success": true,
+  "projectFilePath": "/Users/jamesnelsonolano/Projects/MinesweeperApp/MinesweeperApp/MinesweeperApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jamesnelsonolano/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/jamesnelsonolano/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
